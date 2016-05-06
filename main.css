@@ -7,17 +7,16 @@ text-align: center;
 
 }
 .racer_table td {
-  background-color: gray;
   height: 100px;
   width: 100px;
 }
 
 #player1_strip .active{
-  background:url("images/snail_blue.png")
+  background-image: url("images/Snail-blue.png");
    background-size: 100px 100px;
 }
 #player2_strip .active{
-  background:url("images/snail_purple.png")
+  background-image: url("images/Snail-purple.png");
   background-size: 100px 100px;
 }
 
